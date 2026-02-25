@@ -75,6 +75,7 @@
     {"id":{"name":"obj_powerup_largebat","path":"objects/obj_powerup_largebat/obj_powerup_largebat.yy",},},
     {"id":{"name":"obj_powerup_multiball","path":"objects/obj_powerup_multiball/obj_powerup_multiball.yy",},},
     {"id":{"name":"obj_powerup_pointball","path":"objects/obj_powerup_pointball/obj_powerup_pointball.yy",},},
+    {"id":{"name":"obj_resize_controller","path":"objects/obj_resize_controller/obj_resize_controller.yy",},},
     {"id":{"name":"rm_level_1","path":"rooms/rm_level_1/rm_level_1.yy",},},
     {"id":{"name":"rm_level_2","path":"rooms/rm_level_2/rm_level_2.yy",},},
     {"id":{"name":"rm_level_3","path":"rooms/rm_level_3/rm_level_3.yy",},},
